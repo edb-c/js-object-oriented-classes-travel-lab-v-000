@@ -1,3 +1,19 @@
+//driver
+//creating a new driver
+//can create a Driver with a name and startDate ‣
+//sets the driver startDate as a date object ‣
+//yearsExperienceFromBeginningOf
+//calculates the number of years driven given an endDate ‣
+//
+//Route
+//blocksTravelled
+//calculates the number of blocksTravelled ‣
+//calculates the number of horizontal blocks travelled ‣
+//combines horizontal and vertical blocks travelled ‣
+//estimatedTime
+//estimates time in minutes, with travel time of three //blocks in a minute ‣
+//estimates time in minutes, with travel time of two blocks in a minute during peak hours
+
 let eastWest = [
   '1st Avenue',
   '2nd Avenue',
